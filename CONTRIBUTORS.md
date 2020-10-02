@@ -1,3 +1,8 @@
+#### Name: MANSII
+ - Place: Mumbai, Maharashtra
+ - Bio: Electronics and Telecommunication Engineering student.
+ - GitHub: [MansiLad](https://github.com/MansiLad)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
